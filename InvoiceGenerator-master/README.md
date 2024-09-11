@@ -11,8 +11,6 @@
   <a href="https://github.com/PedroLucasOM/InvoiceGenerator/graphs/commit-activity" target="_blank">
     <img alt="maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/PedroLucasOM" target="_blank">
-    <img alt="Twitter: PedroLucasOM" src="https://img.shields.io/twitter/follow/PedroLucasOM.svg?style=social" />
   </a>
 </p>
 
